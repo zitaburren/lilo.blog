@@ -1,13 +1,11 @@
 +++
 title = "About me"
 draft = false
+image = "3f67c46a35fda62dad359ba529674f0b.jpg"
 description = ""
-image = "/img/default-author.jpg"
 +++
-![](/img/default-author.jpg)
-
-## My Name
+# Zita Burren
 
 mail@example.org
 
-Here should be some info about me...
+Hiiiiii, Coding is realy hard
